@@ -1,0 +1,9 @@
+export const UP = "UP"
+export const DOWN = "DOWN"
+export const LEFT = "LEFT"
+export const RIGHT = "RIGHT"
+export const RIGHT_DIAGONAL_UP = "RIGHT_DIAGONAL_UP"
+export const RIGHT_DIAGONAL_DOWN = "RIGHT_DIAGONAL_DOWN"
+export const LEFT_DIAGONAL_UP = "LEFT_DIAGONAL_UP"
+export const LEFT_DIAGONAL_DOWN = "LEFT_DIAGONAL_DOWN"
+export const directionsArray = [UP,RIGHT_DIAGONAL_UP,RIGHT,RIGHT_DIAGONAL_DOWN,DOWN,LEFT_DIAGONAL_DOWN,LEFT,LEFT_DIAGONAL_UP]
