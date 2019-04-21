@@ -11,4 +11,4 @@ Sample project using react, react-konvas, simple-flexbox
 
 # Screenshot
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/1.png" width="300"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/1.png"/>
